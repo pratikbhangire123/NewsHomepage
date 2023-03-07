@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site](news-homepage-plum-kappa.vercel.app)
 
 ## Built with
 
@@ -49,3 +49,4 @@ Users should be able to:
 - Name - Pratik Bhangire (pratikbhangire@gmail.com)
 - Frontend Mentor - [@pratikbhangire123](https://www.frontendmentor.io/profile/pratikbhangire123)
 - Twitter - [@PratikBhangire](https://www.twitter.com/PratikBhangire)
+- LinkedIn - [@pratik-bhangire](https://www.linkedin.com/in/pratik-bhangire/)
